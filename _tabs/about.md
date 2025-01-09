@@ -17,4 +17,4 @@ Feel free to explore, comment, and share your thoughts. I’d love to connect!
 
 ---
 
-Want to get in touch? [Contact Me](/contact/). 🚀
+Want to get in touch? 🚀
