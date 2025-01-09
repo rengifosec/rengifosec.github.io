@@ -51,5 +51,5 @@ Here are the certifications I’ve earned along my journey:
 
 ---
 
-Want to connect? [Contact Me]([/contact/](https://www.linkedin.com/in/rengifoalejandro/)). 🚀
+Want to connect? [Contact Me](https://www.linkedin.com/in/rengifoalejandro/). 🚀
 
