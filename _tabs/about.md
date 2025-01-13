@@ -4,13 +4,11 @@ title: "About Me"
 permalink: /about/
 ---
 
-# About Me
-
 Hi there! 👋 Welcome to my professional portfolio.  
 
-I’m **[Your Name]**, a [Your Profession/Role, e.g., "Systems Engineer and Cybersecurity Specialist"] with a passion for [Your Key Interests/Focus Areas, e.g., "building secure systems, innovating in technology, and sharing knowledge"]. My journey has been driven by a commitment to continuous learning, technical excellence, and delivering impactful solutions.
+I’m **Alejandro Rengifo**, an avid Cybersecurity enthusiast and hacker at heart currently working at Boeing as a Systems Engineer with a passion for racing cars, researching malware, and CTFs. My journey has been driven by a commitment to continuous learning, technical excellence, and delivering impactful solutions.
 
-With [X years] of experience in [your field], I’ve worked on [key projects/achievements] that have helped me grow as a professional. My expertise spans across multiple domains, including [key skills or technologies, e.g., "cybersecurity, systems engineering, and cloud technologies"].
+With 6 of experience in the United States Air Force, I’ve worked on nuclear weapons as maintenance technician that have helped me grow as a professional. My expertise spans across multiple domains, including physical security, maintaining high standards, high stress environments.
 
 ---
 
@@ -52,13 +50,13 @@ Below is a showcase of my certifications that reflect my dedication to professio
 
 ### Professional Experience
 
-- **[Job Title 1]**  
-  *[Company Name]* — *[Start Date] to [End Date]*  
+- **Systems Engineer - SkillBridge**  
+  *Boeing* — *Dec 2024 to Feb 2025*  
   - Brief description of your responsibilities and key achievements.
   - Example: "Implemented secure network protocols, reducing vulnerabilities by 30%."
 
-- **[Job Title 2]**  
-  *[Company Name]* — *[Start Date] to [End Date]*  
+- **Nuclear Weapons Maintance Technician**  
+  *United States Air Force* — *Oct 2018 to Feb 2025*  
   - Brief description of your responsibilities and key achievements.
   - Example: "Led a team of engineers to develop scalable cloud-based solutions."
 
@@ -76,8 +74,8 @@ Below is a showcase of my certifications that reflect my dedication to professio
 
 ### Awards & Achievements
 
-- **[Award Name]**  
-  Example: "Recognized with the 'Superior Team Award' for outstanding contributions during [event/project]."
+- **[Leo Marquez](https://airandspace.si.edu/support/wall-of-honor/ltgen-leo-marquez-usaf-ret)**  
+  Recognized with the 'Superior Team Award' for outstanding contributions.
 
 ---
 
