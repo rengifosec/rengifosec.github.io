@@ -21,27 +21,27 @@ Below is a showcase of my certifications that reflect my dedication to professio
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; align-items: center;">
 
 <a href="https://www.comptia.org/certifications/a" target="_blank">
-  <img src="{{ site.url }}assets/certifications/Aplus%20Logo%20Certified%20CE.png" alt="CompTIA A+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/Aplus%20Logo%20Certified%20CE.png" alt="CompTIA A+" style="height: 100px;">
 </a>
 
 <a href="https://www.comptia.org/certifications/network" target="_blank">
-  <img src="{{ site.url }}assets/certifications/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/NetworkPlus%20Logo%20Certified%20CE.png" alt="CompTIA Network+" style="height: 100px;">
 </a>
 
 <a href="https://www.comptia.org/certifications/security" target="_blank">
-  <img src="{{ site.url }}assets/certifications/SecurityPlus%20Logo%20Certified%20CE.png" alt="CompTIA Security+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/SecurityPlus%20Logo%20Certified%20CE.png" alt="CompTIA Security+" style="height: 100px;">
 </a>
 
 <a href="https://www.comptia.org/certifications/cysa" target="_blank">
-  <img src="{{ site.url }}assets/certifications/CySA+ce%20certified%20logo.png" alt="CompTIA CySA+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/CySA+ce%20certified%20logo.png" alt="CompTIA CySA+" style="height: 100px;">
 </a>
 
 <a href="https://www.comptia.org/certifications/pentest" target="_blank">
-  <img src="{{ site.url }}assets/certifications/PenTest+ce%20certified%20Logo.png" alt="CompTIA PenTest+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/PenTest+ce%20certified%20Logo.png" alt="CompTIA PenTest+" style="height: 100px;">
 </a>
 
 <a href="https://www.comptia.org/certifications/project" target="_blank">
-  <img src="{{ site.url }}assets/certifications/ProjectPlus%20Logo%20Certified.png" alt="CompTIA Project+" style="height: 100px;">
+  <img src="https://rengifosec.github.io/assets/certifications/ProjectPlus%20Logo%20Certified.png" alt="CompTIA Project+" style="height: 100px;">
 </a>
 
 </div>
