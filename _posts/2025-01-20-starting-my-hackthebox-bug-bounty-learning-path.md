@@ -1,8 +1,6 @@
 ---
 title: "Starting My HackTheBox Bug Bounty Learning Path"
 date: 2025-01-20
-categories: [Cybersecurity, Bug Bounty]
-tags: [hackthebox, bug bounty, penetration testing, cybersecurity]
 ---
 
 Having recently graduated from WGU with a Bachelor’s degree in Cybersecurity, I’m excited to take the next step in sharpening and showcasing my penetration testing skills. To do this, I’ve started the **Bug Bounty Learning Path** on Hack The Box.
